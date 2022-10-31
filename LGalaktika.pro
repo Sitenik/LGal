@@ -6,3 +6,6 @@ OTHER_FILES +=
 
 HEADERS += \
     ProductInfo.h
+
+SUBDIRS += \
+    LGalaktika_Data
