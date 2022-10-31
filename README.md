@@ -1,1 +1,1 @@
-# LGal
+# LGalaktika
